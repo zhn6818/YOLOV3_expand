@@ -1,7 +1,7 @@
 # coding=utf-8
 # project
-DATA_PATH = "/home/leon/data/data/VOC"
-PROJECT_PATH = "/home/leon/doc/code/python_code/YOLOV3"
+DATA_PATH = "/data3/zhn/VOC"
+PROJECT_PATH = "/data2/zhn/code/YOLOV3_expand"
 
 
 DATA = {"CLASSES":['aeroplane', 'bicycle', 'bird', 'boat', 'bottle', 'bus',
